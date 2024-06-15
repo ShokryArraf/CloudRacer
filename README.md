@@ -1,4 +1,6 @@
 <h1>Cloud Racer</h1>
+<h2>  Cloud Racer project is a game done for the Cloud Computing course that teaches python in an engaging and competitive way.
+</h2>
 <h3>To run the program perform the following steps:</h3>
 <ol>
   <li>Download the 'CloudRacerFiles.zip' file from the repoistory</li>
